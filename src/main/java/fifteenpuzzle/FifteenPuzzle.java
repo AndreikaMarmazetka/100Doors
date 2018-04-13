@@ -19,7 +19,7 @@ import javax.swing.*;
         private int blankPos;
         private final int margin;
         private final int gridSize;
-        private boolean gameOver;
+        private boolean gameOver;int ifgtf;
 
         private FifteenPuzzle() {
             final int dim = 640;
