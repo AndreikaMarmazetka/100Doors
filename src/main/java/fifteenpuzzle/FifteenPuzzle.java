@@ -18,7 +18,7 @@ import javax.swing.*;
         private final int tileSize;
         private int blankPos;
         private final int margin;
-        private final int gridSize;jkbnjkjhbuiuk;
+        private final int gridSize;
         private boolean gameOver;
 
         private FifteenPuzzle() {
